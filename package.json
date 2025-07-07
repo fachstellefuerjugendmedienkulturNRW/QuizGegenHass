@@ -1,5 +1,5 @@
 {
-  "homepage": "https://jonathandeininger.github.io/react-quiz-hatespeech-milionaire-theme/",
+  "homepage": "https://fachstellefuerjugendmedienkulturnrw.github.io/QuizGegenHass/",
   "name": "frontend",
   "version": "1.0.0",
   "description": "",
@@ -23,7 +23,7 @@
     "web-vitals": "^2.1.4"
   },
   "devDependencies": {
-    "gh-pages": "^6.2.0"
+    "gh-pages": "^6.3.0"
   },
   "browserslist": {
     "production": [
