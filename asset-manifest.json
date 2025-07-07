@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/QuizGegenHass/static/css/main.12047bce.css",
+    "main.js": "/QuizGegenHass/static/js/main.e163dfe9.js",
+    "static/js/453.670e15c7.chunk.js": "/QuizGegenHass/static/js/453.670e15c7.chunk.js",
+    "index.html": "/QuizGegenHass/index.html",
+    "main.12047bce.css.map": "/QuizGegenHass/static/css/main.12047bce.css.map",
+    "main.e163dfe9.js.map": "/QuizGegenHass/static/js/main.e163dfe9.js.map",
+    "453.670e15c7.chunk.js.map": "/QuizGegenHass/static/js/453.670e15c7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12047bce.css",
+    "static/js/main.e163dfe9.js"
+  ]
+}
